@@ -154,24 +154,6 @@ h1 {
 }
 
 @keyframes fadeIn {
-    /* Añade esto al final de tu archivo CSS */
-.game-tag {
-    position: fixed;
-    top: 25px;
-    right: 30px;
-    font-size: 0.85rem;
-    font-weight: 700;
-    letter-spacing: 3px;
-    /* Usamos un color discreto similar a tus botones de menú */
-    color: #475569; 
-    text-transform: uppercase;
-    user-select: none;
-    pointer-events: none;
-    z-index: 1000;
-    /* Un pequeño borde sutil debajo para que parezca una etiqueta real */
-    border-bottom: 1px solid rgba(255, 255, 255, 0.05);
-    padding-bottom: 4px;
-}
     from { opacity: 0; transform: translateY(10px); }
     to { opacity: 1; transform: translateY(0); }
 }
