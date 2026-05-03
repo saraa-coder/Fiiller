@@ -90,7 +90,6 @@ const allWords = [
     {word:"kazanmak",correct:"ganar",sentence:"Para kazanıyorum.",translation:"Gano dinero."},
     {word:"kırmak",correct:"romper",sentence:"Bardağı kırıyorum.",translation:"Rompo el vaso."},
     {word:"kızmak",correct:"enojarse",sentence:"Öğretmen kızıyor.",translation:"El profesor se enfada."},
-    {word:"korkmak",correct:"tener miedo",sentence:"Köpekten korkuyorum.",translation:"Tengo miedo del perro."},
     {word:"kucaklamak",correct:"abrazar",sentence:"Annemi kucaklıyorum.",translation:"Abrazo a mi madre."},
     {word:"pişirmek",correct:"cocinar",sentence:"Akşam yemek pişiriyorum.",translation:"Cocino la cena."},
     {word:"sanmak",correct:"creer / suponer",sentence:"Onu evde sanıyorum.",translation:"Pienso que está en casa."},
@@ -112,7 +111,6 @@ const allWords = [
     {word:"uyanmak",correct:"despertar",sentence:"Sabah erken uyanıyorum.",translation:"Me despierto temprano por la mañana."},
     {word:"varmak",correct:"llegar",sentence:"Okula geç varıyorum.",translation:"Llego tarde a la escuela."},
     {word:"yağmak",correct:"llover / nevar",sentence:"Yağmur yağıyor.",translation:"Está lloviendo."},
-    {word:"ezberlemek_siir",word:"ezberlemek",correct:"memorizar",sentence:"Şiiri ezberliyorum.",translation:"Memorizo el poema."},
     {word:"yanmak",correct:"arder / quemar",sentence:"Işık yanıyor.",translation:"La luz está encendida."},
     {word:"yaratmak",correct:"crear",sentence:"Yeni bir şey yaratıyorum.",translation:"Creo algo nuevo."},
     {word:"oynamak",correct:"jugar",sentence:"Parkta oynuyorum.",translation:"Juego en el parque."},
@@ -149,7 +147,6 @@ const allWords = [
 {word:"tıraş olmak",correct:"afeitarse",sentence:"Adam her sabah tıraş oluyor.",translation:"El hombre se afeita cada mañana."},
 {word:"konuşmak",correct:"hablar",sentence:"Telefonda annemle konuşuyorum.",translation:"Hablo por teléfono con mi madre."},
 {word:"makyaj yapmak",correct:"maquillarse",sentence:"Kadın aynada makyaj yapıyor.",translation:"La mujer se maquilla en el espejo."},
-{word:"terlemek",correct:"sudar",sentence:"Çocuk koşarken terliyor.",translation:"El niño suda mientras corre."},
 {word:"üşümek",correct:"tener frío",sentence:"Sen dışarıda üşüyorsun.",translation:"Tienes frío afuera."},
 {word:"taşımak",correct:"llevar / transportar",sentence:"Biz ağır çantaları taşıyoruz.",translation:"Llevamos las mochilas pesadas."},
 {word:"boyamak",correct:"pintar",sentence:"Biz evi boyuyoruz.",translation:"Estamos pintando la casa."},
@@ -157,7 +154,6 @@ const allWords = [
 {word:"ders çalışmak",correct:"estudiar",sentence:"Öğrenciler kütüphanede ders çalışıyor.",translation:"Los estudiantes estudian en la biblioteca."},
 {word:"kahvaltı yapmak / etmek",correct:"desayunar",sentence:"Sabah kahvaltı yapıyoruz.",translation:"Desayunamos por la mañana."},
 {word:"yemek yapmak",correct:"cocinar",sentence:"Annem akşam yemek yapıyor.",translation:"Mi madre está cocinando la cena."},
-{word:"binmek",correct:"subir (a un vehículo)",sentence:"Öğrenciler otobüse biniyor.",translation:"Los estudiantes suben al autobús."},
 {word:"seyretmek",correct:"ver / mirar",sentence:"Biz akşam film seyrediyoruz.",translation:"Vemos una película por la noche."}
 ];
 
